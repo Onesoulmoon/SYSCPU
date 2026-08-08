@@ -1,3 +1,12 @@
+<img width="842" height="1280" alt="image" src="https://github.com/user-attachments/assets/b14cd3e1-54c9-4e8c-a379-9ccfdde7a552" />
+<img width="875" height="1280" alt="image" src="https://github.com/user-attachments/assets/2cb8f9e4-4554-4ca9-894d-7a9600f05bac" />
+<img width="540" height="1189" alt="image" src="https://github.com/user-attachments/assets/c5664870-fc48-4297-881e-b9a55da3e533" />
+<img width="1009" height="1280" alt="image" src="https://github.com/user-attachments/assets/a7cbc4f5-4b38-4bb5-8a0b-85955a95bb6b" />
+<img width="933" height="1280" alt="image" src="https://github.com/user-attachments/assets/edf8efd6-90d6-4f6d-911d-7876405396fe" />
+<img width="691" height="1280" alt="image" src="https://github.com/user-attachments/assets/3a7b66af-41ef-4590-bf25-22ee034a150e" />
+<img width="1014" height="1280" alt="image" src="https://github.com/user-attachments/assets/5a98d589-fc10-4e9b-9182-2a699803798e" />
+<img width="540" height="1249" alt="image" src="https://github.com/user-attachments/assets/70ee45d2-3a06-49a2-a7f2-b46e4891a03b" />
+<img width="841" height="1280" alt="bdf90251-cb02-4827-a3fc-66455ee54684" src="https://github.com/user-attachments/assets/303e350a-6fbf-4e47-ac87-26c91afc8e10" />
 # SYS-CPU
 
 A CPU-Z-style system information app for Android with a paper terminal /
