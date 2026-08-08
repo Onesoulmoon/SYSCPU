@@ -7,6 +7,8 @@
 <img width="230" height="540" alt="image" src="https://github.com/user-attachments/assets/5a98d589-fc10-4e9b-9182-2a699803798e" />
 <img width="230" height="540" alt="image" src="https://github.com/user-attachments/assets/70ee45d2-3a06-49a2-a7f2-b46e4891a03b" />
 <img width="230" height="540" alt="bdf90251-cb02-4827-a3fc-66455ee54684" src="https://github.com/user-attachments/assets/303e350a-6fbf-4e47-ac87-26c91afc8e10" />
+
+
 # SYS-CPU
 
 A CPU-Z-style system information app for Android with a paper terminal /
