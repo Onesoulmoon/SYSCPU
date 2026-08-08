@@ -1,4 +1,4 @@
-# ASCII SYS
+# SYS-CPU
 
 A CPU-Z-style system information app for Android with a paper terminal /
 CRT amber aesthetic. Built with Kotlin + Jetpack Compose.
