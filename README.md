@@ -1,3 +1,11 @@
+# SYS-CPU
+
+A terminal-inspired system monitor and hardware diagnostic tool for Android. with a paper terminal /
+CRT amber aesthetic. Built with Kotlin + Jetpack Compose.
+
+
+
+
 <img width="507" height="640" alt="e805ba6f-a194-4600-bbfc-2058e52c2796" src="https://github.com/user-attachments/assets/b8c7781f-da20-4c1a-9e04-ef3a2f615dd4" />
 <img width="345" height="640" alt="65247805-b639-4fb0-80f2-4b93738a2cfa" src="https://github.com/user-attachments/assets/b3d704e6-f0d9-4c13-a544-e63126df973d" />
 <img width="466" height="640" alt="7e511b16-9146-4c7a-ade0-6682747a4cd2" src="https://github.com/user-attachments/assets/41aabb81-fb57-4073-8901-3e9cd6ad1db9" />
@@ -6,10 +14,6 @@
 <img width="504" height="640" alt="image" src="https://github.com/user-attachments/assets/44f68b22-8e28-4901-be75-3ec496ceec3d" />
 
 
-# SYS-CPU
-
-A CPU-Z-style system information app for Android with a paper terminal /
-CRT amber aesthetic. Built with Kotlin + Jetpack Compose.
 
 ## Features
 
